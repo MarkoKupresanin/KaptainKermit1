@@ -61,7 +61,6 @@ p, a {
 }
 
 .subtitle {
-    font-family: Oxygen, sans-serif;
     text-transform: uppercase;
     font-size: 16px;
     font-weight: 700;
@@ -71,19 +70,19 @@ p, a {
 
 .title {
     margin-bottom: 80px;
+    font-family: Oxygen, sans-serif;
 }
 
 .top__profile {
     grid-area: top__profile;
     align-self: center;
     justify-self: center;
-    background-image: url("IMG_7882.JPG");
+    background-image: url("me.png");
     width: 256px;
     height: 256px;
-    background-position: center;
     background-repeat: no-repeat;
     border-radius: 50%;
-    top: 120px;
+    background-position: center 25%;
 }
 
 .social {
