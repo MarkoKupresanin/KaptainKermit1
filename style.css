@@ -16,8 +16,6 @@
     background-color: var(--deeznuts);
 }
 
-
-
 i {
     color: var(--iconColors);
 }
@@ -130,7 +128,6 @@ i:hover {
     color: rgb(76, 113, 224)
 }
 
-
 @media only screen and (max-width: 1280px) {
     .top {
         grid-template-columns: 1fr;
@@ -144,7 +141,6 @@ i:hover {
         height: 100%;
     }
 }
-
 
 .middle {
     grid-area: middle;
@@ -163,7 +159,6 @@ i:hover {
     padding-bottom: 10rem;
     padding-top: 5rem;
 }
-
 
 .displayWork {
     padding: 4rem;
